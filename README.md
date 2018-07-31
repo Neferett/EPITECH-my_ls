@@ -1,4 +1,4 @@
-# EPITECH-my_ls
+# LS
 Recode ls system command
 
 Respect Epitech's norm, working ls command. 17/20.
